@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# I'm Shawaiz, A Software Engineer who loves programming and software.
+
 <!--
 **Shawaiz22/Shawaiz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
