@@ -19,14 +19,14 @@
 
 ### 🚀 About Me
 
-I'm a software engineer who likes to solve real problems with code — not just another developer, I am a builder who can build real things and scale those. My strongest zone is **frontend engineering** (React, Next.js), but I regularly cross over into the **backend** to ship complete products: auth, databases, APIs.
+I'm a software engineer who likes to solve real problems with code, not just another developer, I am a builder who can build real things and scale those. My strongest zone is **frontend engineering** (React, Next.js), but I regularly cross over into the **backend** to ship complete products: auth, databases, APIs.
 
 - I bring deep, applied programming expertise, not just surface-level familiarity with frameworks and tutorials.
 - I use AI as a force multiplier for my skills, not a substitute for them.
 - I ship architecture which scales, not just features.
 - ☁️ Comfortable across the stack: Next.js, React.Js, Next Auth, Zod, RHF, Tailwind, Shadcn, Trpc, Tanstack, etc. ( A much longer list of frontend tools), plus a automation like zapier, n8n and a daily user of AI tools like claude code, google antigravity.
 - Have a very good exposure to AI Integration in apps and implemented GenAI concepts like function calling, for amazing usecases.
-- 🤝 Active in the developer community — GDG events, hackathons, and building in public.
+- 🤝 Active in the developer community - GDG events, hackathons, and building in public.
 
 ---
 
@@ -52,7 +52,7 @@ I'm a software engineer who likes to solve real problems with code — not just 
 
 ### 📫 Let's Connect
 
-I'm always up for talking frontend architecture, AI-powered products, or the next hackathon idea. Reach out — I reply fast.
+I'm always up for talking frontend architecture, AI-powered products, or the next hackathon idea. Reach out, I reply fast.
 
 <p align="center">
   <a href="https://linkedin.com/in/shawaizsiddiqui22"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
